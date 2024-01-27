@@ -1,0 +1,8 @@
+download the code.
+https://github.com/poolavijaynaidu01/Terraform1.27.24-latest.git
+
+go to Terraform1.27.24-latest/terraform-aws-lambda/sqs and sns/with-event-source-mappings/sqs
+execute the terraform plan and terraform apply for sqs setup build
+
+got to the Terraform1.27.24-latest/terraform-aws-lambda/sqs and sns/with-sns-subscriptions
+execute the terraform plan and terraform apply
